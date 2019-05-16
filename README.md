@@ -8,7 +8,7 @@ A go package that uses markov chains to generate fake UK government petitions.
 
 ## Usage
 
-```
+```go
     import (
         "fmt"
         "github.com/harrystevenson/petitions"
